@@ -4,13 +4,13 @@ body {
     text-align: center;
 }
 
-h1 {
+.header-main {
     color: white;
     font-size: 50px;
     font-weight: 400;
 }
 
-h2 {
+.header-two {
     color: white;
     font-size: 42px;
     font-weight: 300;
@@ -20,7 +20,7 @@ h2 {
     text-align: center;
 } */
 
-.download-link {
+.link-cta {
     color: aquamarine;
     font-size: 16px;
 }
