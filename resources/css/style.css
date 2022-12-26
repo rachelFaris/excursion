@@ -1,16 +1,37 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+    text-align: center;
 }
 
 h1 {
     color: white;
-    text-align: center;
     font-size: 50px;
     font-weight: 400;
 }
 
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+/* .centered {
+    text-align: center;
+} */
+
 .download-link {
     color: aquamarine;
-    /* text-align: center; */
+    font-size: 16px;
+}
+
+p.explainer {
+    color: gray;
+    font-size: 21px;
+}
+
+footer {
+    color: gray;
+    font-size: 18px;
+    text-align: right;
 }
